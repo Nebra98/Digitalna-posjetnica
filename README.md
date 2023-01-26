@@ -7,13 +7,14 @@ Dolaskom korisnika na stranicu omogućen mu je neki osnovni vid i ideja što bi 
 
 Kako bi korisnik mogao napraviti vlastitu posjetnicu, a potom istu i uređivati, od njega se  zahtjeva da treba izvršiti registraciju odnosno napraviti vlastiti korisnički račun, odnosno potrebno je izvršiti autentifikaciju i autorizaciju. Nakon uspješne autentifikacije i autorizacije, korisnik je uspješno kreirao račun i 
 omogućena mu je cijela kontrola nad svojom digitalnom posjetnicom. Također uspješnim 
-kreiranjem računa, korisnik dobiva svoj jedinstveni QR kôd (engl. Qucik Response Code) koji mu omogućuje lakšu podjelu svoje digitalne posjetnice sa drugim korisnicima bili to prijatelji, kolege s posla, poslovni partneri i sl. Uspješnom prijavom u sustav, korisnik može dodavati te uređivati vlastite podatke po želji.
+kreiranjem računa, korisnik dobiva svoj jedinstveni QR kôd (engl. Qucik Response Code) koji mu omogućuje lakšu podjelu svoje digitalne posjetnice sa drugim korisnicima bili to prijatelji, kolege s posla, poslovni partneri i sl. 
+Uspješnom prijavom u sustav, korisnik može dodavati te uređivati vlastite podatke po želji.
 
 Tehnologije koje su korištene za razvoj mrežne aplikacije su:
-• Programski jezik PHP
-• Laravel mrežni razvojni okvir
-• MySQL baza podataka
-• Bootstrap
-• Vue.js
-• Xampp
-• Visual Studio Code.
+- Programski jezik PHP
+- Laravel mrežni razvojni okvir
+- MySQL baza podataka
+- Bootstrap
+- Vue.js
+- Xampp
+- Visual Studio Code.
